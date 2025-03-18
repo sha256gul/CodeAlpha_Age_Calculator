@@ -1,0 +1,1 @@
+Open the index.html file of each task using Google Chrome or any other web browser.
